@@ -1,0 +1,995 @@
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+❌️ gdbinit:52: Error in sourced command file:
+Value can't be converted to integer.
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00000000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00000000 in ?? ()
+❌️ Function "freertos_risc_v_exception_handler" not defined.
+Make hw breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+❌️ Function "other_exception" not defined.
+Make breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+❌️ Function "machine_external_interrupt" not defined.
+Make breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+⚠️ warning: Your new `hook-stop0' command does not hook any existing command.
+Proceed? (y or n) [answered Y; input not from terminal]
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00000000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00000000 in ?? ()
+❌️ Function "freertos_risc_v_exception_handler" not defined.
+Make hw breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+❌️ Function "other_exception" not defined.
+Make breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+❌️ Function "machine_external_interrupt" not defined.
+Make breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+⚠️ warning: Your new `hook-stop0' command does not hook any existing command.
+Proceed? (y or n) [answered Y; input not from terminal]
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00000000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00000000 in ?? ()
+❌️ Function "freertos_risc_v_exception_handler" not defined.
+Make hw breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+❌️ Function "other_exception" not defined.
+Make breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+❌️ Function "machine_external_interrupt" not defined.
+Make breakpoint pending on future shared library load? (y or [n]) [answered N; input not from terminal]
+⚠️ warning: Your new `hook-stop0' command does not hook any existing command.
+Proceed? (y or n) [answered Y; input not from terminal]
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00000000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00000000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+mcause         0x1	0x1
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x1800	SD:0 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:0 MPP:3 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x0	0x0
+gp             0x0	0x0
+tp             0x0	0x0
+0x00000000 in ?? ()
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00000000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00000000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+❌️ gdbinit:43: Error in sourced command file:
+/hst_root/home/kflyn/d2/MyProjectTemplate/build/riscv32//program_riscv32_v1.0.0: No such file or directory.
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+❌️ gdbinit:44: Error in sourced command file:
+could not connect: Connection timed out.
+❌️ http://localhost:1234/: cannot resolve name: Servname not supported for ai_socktype
+
+❌️ could not connect: Connection timed out.
+Reading symbols from ./build/riscv32/program_riscv32_v1.0.0...
+❌️ could not connect: Connection refused.
+❌️ Quit
+Reading symbols from ./build/riscv32/program_riscv32_v1.0.0...
+❌️ could not connect: Connection timed out.
+quit
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00000000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00000000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Breakpoint 1 at 0x100ce: file src/main.c, line 6.
+Continuing.
+
+Program received signal SIGINT, Interrupt.
+mcause         0x1	0x1
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x1800	SD:0 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:0 MPP:3 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x0	0x0
+gp             0x0	0x0
+tp             0x0	0x0
+0x00000000 in ?? ()
+Loading section .text, size 0xbb0c lma 0x100b4
+❌️ Load failed
+Reading symbols from ./build/riscv32/program_riscv32_v1.0.0...
+Loading section .text, size 0xbb0c lma 0x100b4
+❌️ Load failed
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Breakpoint 1 at 0x8000010a: file src/startup.S, line 8.
+Continuing.
+
+Program received signal SIGINT, Interrupt.
+mcause         0x1	0x1
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x1800	SD:0 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:0 MPP:3 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0xffffffe0	0xffffffe0
+gp             0x0	0x0
+tp             0x0	0x0
+0x00000000 in ?? ()
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+0x80000000 <main>:	0xce061101
+0x80000000 <main>:	0xce061101	0x02a05963	0x1937c84a	0xcc228000
+0x80000010 <main+16>:	0xc64eca26	0x89aa84ae	0x14890913	0x40904401
+0x80000020 <main+32>:	0x854a85a2	0x2a490405	0x9ae30491	0x4462fe89
+0x80000030 <main+48>:	0x494244d2	0x451949b2	0x28414581	0x1537872a
+0x80000040 <main+64>:	0x87ae8000	0x15050513	0x46814619	0x40f222b5
+0x80000050 <main+80>:	0x61054501	0x07378082	0x27838008	0xc79105c7
+0x80000060 <_sbrk+10>:	0x2e23953e	0x853e04a7	0x07b78082	0x87938008
+0x80000070 <_sbrk+26>:	0x953e1a87	0x04a72e23	0x8082853e	0xc6061141
+0x80000080 <_close+4>:	0x40b22295	0x05800793	0x557dc11c	0x80820141
+0x80000090 <_fstat>:	0x6789c199	0x4501c1dc	0x45058082	0x11418082
+0x800000a0 <_lseek+2>:	0x2289c606	0x079340b2	0xc11c0580	0x0141557d
+0x800000b0 <_lseek+18>:	0x11418082	0x223dc606	0x079340b2	0xc11c0580
+0x800000c0 <_read+14>:	0x0141557d	0x85328082	0x882e8082	0xc98d87aa
+0x800000d0 <factorial+6>:	0x88aa4505	0x86b34581	0x873e02f5	0x0017b593
+0x800000e0 <factorial+22>:	0x063317fd	0x083302a8	0x35b340b8	0x96b202e5
+0x800000f0 <factorial+38>:	0x02e50533	0x90e395b6	0x1ee3ff17	0x8082fc08
+0x80000100 <factorial+54>:	0x67e34505	0x4581fcf5	0x01978082	0x81930008
+0x80000110 <_start+6>:	0x011774e1	0x01130018	0x8293eee1	0x03178041
+0x80000120 <_start+22>:	0x03130008	0xf66308a3	0xa0230062	0x02910002
+0x80000130 <_start+38>:	0x1297bfdd	0x82930000	0x03170d62	0x03130008
+0x80000140 <_start+54>:	0x0397ec63	0x83930008	0x7963f1a3	0xae030073
+0x80000150 <_start+70>:	0x20230002	0x029101c3	0xbfc50311	0xa0736289
+0x80000160 <_start+86>:	0x10733002	0x28110030	0x4501282d	0x46014581
+0x80000170 <_start+102>:	0xe91ff0ef	0x10500073	0xe297bff5	0x82930017
+0x80000180 <pmp_setup_guard+6>:	0xf317e862	0x03130017	0xd293e7e3	0x53130022
+0x80000190 <pmp_setup_guard+22>:	0x90730023	0x10733b02	0x43a13b13	0x3a039073
+0x800001a0 <pmp_setup_guard+38>:	0x42818082	0x3b229073	0x40000313	0x3b331073
+0x800001b0 <pmp_block_null+14>:	0x907343a1	0x80823a13	0xda3e7139	0x00080797
+0x800001c0 <printf+8>:	0xe9c7a783	0xd636d432	0xd83ad22e	0xde46dc42
+0x800001d0 <printf+24>:	0x1054478c	0x853e862a	0xc636ce06	0x40f228bd
+0x800001e0 <printf+40>:	0x80826121	0x00080517	0xe7452503	0x461c8082
+0x800001f0 <__sfputc_r+2>:	0xc61c17fd	0x0007da63	0xc5634e18	0x879300e7
+0x80000200 <__sfputc_r+18>:	0xe399ff65	0x06f0006f	0x852e421c	0x00178713
+0x80000210 <__sfputc_r+34>:	0x8023c218	0x808200b7	0xcc221101	0xc84aca26
+0x80000220 <__sfputs_r+8>:	0xc452c64e	0x89aace06	0x84328a2e	0x00d604b3
+0x80000230 <__sfputs_r+24>:	0x1463597d	0x45010094	0x4583a809	0x86520004
+0x80000240 <__sfputs_r+40>:	0x3775854e	0x16e30405	0x40f2ff25	0x44d24462
+0x80000250 <__sfputs_r+56>:	0x49b24942	0x61054a22	0x71718082	0xd326d522
+0x80000260 <_vfprintf_r+6>:	0xcd52cf4e	0xd14ad706	0xc95acb56	0xc562c75e
+0x80000270 <_vfprintf_r+22>:	0x89aac366	0x843284ae	0xc5018a36	0xe391511c
+0x80000280 <_vfprintf_r+38>:	0xd7832d75	0x8ba100c4	0x489ccbf1	0x0793cbe1
+0x80000290 <_vfprintf_r+54>:	0x0ca30200	0x079302f1	0xce520300	0x0d23da02
+0x800002a0 <_vfprintf_r+70>:	0x5a7d02f1	0x00001b17	0xeccb0b13	0x4aa94b85
+0x800002b0 <_vfprintf_r+86>:	0x47838c22	0x3cb3000c	0x879300f0	0x37b3fdb7
+0x800002c0 <_vfprintf_r+102>:	0xfcb300f0	0x9e6300fc	0x06b30a0c	0x0d63408c
+0x800002d0 <_vfprintf_r+118>:	0x8622008c	0x854e85a6	0x3f3dc636	0x1d450163
+0x800002e0 <_vfprintf_r+134>:	0x46b257d2	0xda3e97b6	0x000c4783	0x1a078963
+0x800002f0 <_vfprintf_r+150>:	0x001c0413	0xd602d002	0xd402d252	0x060101a3
+0x80000300 <_vfprintf_r+166>:	0x4583dc82	0x46150004	0x00001517	0xe6850513
+0x80000310 <_vfprintf_r+182>:	0x0b1000ef	0x06935782	0xe5350014	0x0107f713
+0x80000320 <_vfprintf_r+198>:	0x0713c709	0x01a30200	0xf71306e1	0xc7090087
+0x80000330 <_vfprintf_r+214>:	0x02b00713	0x06e101a3	0x00044603	0x02a00713
+0x80000340 <_vfprintf_r+230>:	0x04e60b63	0x468157b2	0x47034625	0x07130004
+0x80000350 <_vfprintf_r+246>:	0x7963fd07	0xcaa908e6	0xa0b9d63e	0x854e85a6
+0x80000360 <_vfprintf_r+262>:	0x7a0000ef	0x557dd50d	0x542a50ba	0x590a549a
+0x80000370 <_vfprintf_r+278>:	0x4a6a49fa	0x4b4a4ada	0x4c2a4bba	0x614d4c9a
+0x80000380 <_vfprintf_r+294>:	0x0c058082	0x0533b73d	0x95334165	0x8d5d00ab
+0x80000390 <_vfprintf_r+310>:	0x8436d02a	0x4772b7bd	0x00470613	0xce324318
+0x800003a0 <_vfprintf_r+326>:	0x02074b63	0x8436d63a	0x00044703	0x02e00793
+0x800003b0 <_vfprintf_r+342>:	0x04f71c63	0x00144703	0x02a00793	0x02f71a63
+0x800003c0 <_vfprintf_r+358>:	0x040947f2	0x00478713	0xce3a439c	0x0007d363
+0x800003d0 <_vfprintf_r+374>:	0xd23e57fd	0x0733a815	0xe79340e0	0xd63a0027
+0x800003e0 <_vfprintf_r+390>:	0xb7d1d03e	0x035787b3	0x46850405	0xbfb197ba
+0x800003f0 <_vfprintf_r+406>:	0xd2020405	0x46a54781	0x00044703	0xfd070713
+0x80000400 <_vfprintf_r+422>:	0x06e6f663	0xfc0c97e3	0x00044583	0x1517460d
+0x80000410 <_vfprintf_r+438>:	0x05130000	0x00efd6a5	0xcd117aa0	0x00001797
+0x80000420 <_vfprintf_r+454>:	0xd5c78793	0x57828d1d	0x04000713	0x00a71733
+0x80000430 <_vfprintf_r+470>:	0x04058fd9	0x4583d03e	0x46190004	0x00001517
+0x80000440 <_vfprintf_r+486>:	0xd4050513	0x02b10c23	0x778000ef	0x0793c12d
+0x80000450 <_vfprintf_r+502>:	0xe79d0000	0x47f25702	0x10077713	0x0791cf11
+0x80000460 <_vfprintf_r+518>:	0x57d2ce3e	0x97ca0405	0xb599da3e	0x035787b3
+0x80000470 <_vfprintf_r+534>:	0x4c850405	0xb74997ba	0x9be1079d	0xb7cd07a1
+0x80000480 <_vfprintf_r+550>:	0x06970878	0x86930000	0x8626d966	0x854e100c
+0x80000490 <_vfprintf_r+566>:	0x00000097	0x000000e7	0x14e3892a	0xd783fd45
+0x800004a0 <_vfprintf_r+582>:	0xf79300c4	0x90e30407	0x5552ec07	0x0878bd75
+0x800004b0 <_vfprintf_r+598>:	0x00000697	0xd6868693	0x100c8626	0x2a19854e
+0x800004c0 <_vfprintf_r+614>:	0x7179bfe1	0x499cce4e	0x459889ba	0xd04ad422
+0x800004d0 <_printf_common+14>:	0xc65ec85a	0xd226d606	0xca56cc52	0x842e8b2a
+0x800004e0 <_printf_common+30>:	0x8bb68932	0x00e7d363	0x202387ba	0x470300f9
+0x800004f0 <_printf_common+46>:	0xc7010434	0x20230785	0x401c00f9	0x0207f793
+0x80000500 <_printf_common+62>:	0x2783c791	0x07890009	0x00f92023	0x88994004
+0x80000510 <_printf_common+78>:	0x0a13e891	0x5afd0194	0x2703445c	0x8f990009
+0x80000520 <_printf_common+94>:	0x04f4cd63	0x4683401c	0xf7930434	0x36b30207
+0x80000530 <_printf_common+110>:	0xebad00d0	0x04340613	0x855a85de	0x57fd9982
+0x80000540 <_printf_common+126>:	0x04f50463	0x4711401c	0x8b994481	0x00e79a63
+0x80000550 <_printf_common+142>:	0x00092783	0x8c9d4444	0xfff4c793	0x8cfd87fd
+0x80000560 <_printf_common+158>:	0x4818441c	0x00f75463	0x94be8f99	0x04694901
+0x80000570 <_printf_common+174>:	0x98635a7d	0x45010524	0x4685a809	0x85de8652
+0x80000580 <_printf_common+190>:	0x9982855a	0x01551e63	0x50b2557d	0x54925422
+0x80000590 <_printf_common+206>:	0x49f25902	0x4ad24a62	0x4bb24b42	0x80826145
+0x800005a0 <_printf_common+222>:	0xbf9d0485	0x00d40733	0x03000613	0x04c701a3
+0x800005b0 <_printf_common+238>:	0x04544703	0x00168793	0x068997a2	0x04e781a3
+0x800005c0 <_printf_common+254>:	0x4685bf95	0x85de8622	0x9982855a	0xfb450ee3
+0x800005d0 <_printf_common+270>:	0xb7450905	0xdc227139	0xd452da26	0xde06d256
+0x800005e0 <_printf_i+12>:	0xd64ed84a	0x0185c783	0x069384b6	0x8a2a0780
+0x800005f0 <_printf_i+28>:	0x8ab2842e	0x02f6e263	0x06200693	0x04358613
+0x80000600 <_printf_i+44>:	0x00f6ef63	0x1c078163	0x05800593	0x00001697
+0x80000610 <_printf_i+60>:	0xb7868693	0x14b78063	0x04240913	0x8693a805
+0x80000620 <_printf_i+76>:	0xf693f9d7	0x45d50ff6	0xfed5e8e3	0x00001597
+0x80000630 <_printf_i+92>:	0xb8058593	0x96ae068a	0x96ae4294	0x431c8682
+0x80000640 <_printf_i+108>:	0x04240913	0x00478693	0xc314439c	0x04f40123
+0x80000650 <_printf_i+124>:	0xaa694785	0x4308401c	0x0807f693	0x00450593
+0x80000660 <_printf_i+140>:	0x411cc28d	0xd863c30c	0x07130007	0x07b302d0
+0x80000670 <_printf_i+156>:	0x01a340f0	0x169704e4	0x86930000	0x4729b0e6
+0x80000680 <_printf_i+172>:	0xf693a099	0x411c0407	0xdef1c30c	0x87c107c2
+0x80000690 <_printf_i+188>:	0x400cbfd9	0xf5134314	0x429c0805	0xe5110691
+0x800006a0 <_printf_i+204>:	0x0405f593	0x07c2c199	0xc31483c1	0x01844683
+0x800006b0 <_printf_i+220>:	0x06f00713	0x0ce69f63	0x00001697	0xacc68693
+0x800006c0 <_printf_i+236>:	0x01a34721	0x404c0404	0xc863c40c	0x40080005
+0x800006d0 <_printf_i+252>:	0x89328ddd	0xc008996d	0x8932cd99	0x02e7f5b3
+0x800006e0 <_printf_i+268>:	0x95b6197d	0x0005c583	0x00b90023	0xd7b385be
+0x800006f0 <_printf_i+284>:	0xf5e302e7	0x47a1fee5	0x00f71e63	0x8b85401c
+0x80000700 <_printf_i+300>:	0x4058cb91	0xc763481c	0x079300e7	0x0fa30300
+0x80000710 <_printf_i+316>:	0x197dfef9	0x41260633	0x8726c810	0x087086d6
+0x80000720 <_printf_i+332>:	0x855285a2	0x59fd3b79	0x0d351663	0x50f2557d
+0x80000730 <_printf_i+348>:	0x54d25462	0x59b25942	0x5a925a22	0x80826121
+0x80000740 <_printf_i+364>:	0xe793401c	0xc01c0207	0x07800793	0x00001697
+0x80000750 <_printf_i+380>:	0xa4c68693	0x04f402a3	0x4308400c	0x0805f813
+0x80000760 <_printf_i+396>:	0x0511411c	0x00081863	0x0405f813	0x00080463
+0x80000770 <_printf_i+412>:	0x83c107c2	0xf713c308	0xc7010015	0x0205e593
+0x80000780 <_printf_i+428>:	0xc399c00c	0xbf354741	0x77134018	0xc018fdf7
+0x80000790 <_printf_i+444>:	0x1697bfd5	0x86930000	0x47299f26	0x4014b71d
+0x800007a0 <_printf_i+460>:	0x484c431c	0x0806f813	0x00478513	0x00080663
+0x800007b0 <_printf_i+476>:	0x439cc308	0xa801c38c	0xf693c308	0x439c0406
+0x800007c0 <_printf_i+492>:	0x9023daf5	0x282300b7	0x89320004	0x431cb7b9
+0x800007d0 <_printf_i+508>:	0x45814050	0x00478693	0xa903c314	0x854a0007
+0x800007e0 <_printf_i+524>:	0xc50126c5	0x41250533	0x405cc048	0x01a3c81c
+0x800007f0 <_printf_i+540>:	0xb7250404	0x864a4814	0x855285d6	0x07e39482
+0x80000800 <_printf_i+556>:	0x401cf335	0xe7958b89	0x444847f2	0xf2f551e3
+0x80000810 <_printf_i+572>:	0xbf31853e	0x85d64685	0xc6328552	0x07e39482
+0x80000820 <_printf_i+588>:	0x4632f135	0x445c0905	0x8f994772	0xfef944e3
+0x80000830 <_printf_i+604>:	0x4901bfe1	0x01940613	0x1141b7fd	0xc606c422
+0x80000840 <std+6>:	0x1623842a	0x172300b5	0x202300c5	0x22230005
+0x80000850 <std+22>:	0x24230005	0x22230005	0x28230605	0x2a230005
+0x80000860 <std+38>:	0x2c230005	0x46210005	0x05134581	0x292105c5
+0x80000870 <std+54>:	0x00000797	0x14478793	0x0797d05c	0x87930000
+0x80000880 <std+70>:	0xd41c16a7	0x00000797	0x1ae78793	0x0797d45c
+0x80000890 <std+86>:	0x87930000	0x40b21de7	0xd81cd000	0x01414422
+0x800008a0 <std+102>:	0xf6178082	0x06130007	0x05977aa6	0x85930000
+0x800008b0 <stdio_exit_handler+14>:	0xf5177185	0x05130007	0xa86974e5	0x1141414c
+0x800008c0 <cleanup_stdio+4>:	0xc606c422	0x0007f797	0x7ac78793	0x8363842a
+0x800008d0 <cleanup_stdio+20>:	0x2dc500f5	0x0797440c	0x87930008	0x84638027
+0x800008e0 <cleanup_stdio+36>:	0x852200f5	0x444c2df9	0x8e818793	0x00f58763
+0x800008f0 <cleanup_stdio+52>:	0x44228522	0x014140b2	0x40b2a5e9	0x01414422
+0x80000900 <cleanup_stdio+68>:	0x11418082	0x00000797	0xf9e78793	0x45914601
+0x80000910 <global_stdio_init.part.0+14>:	0x0007f517	0x76050513	0xa423c606	0x3f3180f1
+0x80000920 <global_stdio_init.part.0+30>:	0x45a54605	0x0007f517	0x7b450513	0x40b23739
+0x80000930 <global_stdio_init.part.0+46>:	0x45c94609	0x8e818513	0xb7010141	0xeb91511c
+0x80000940 <__sinit+4>:	0x00000797	0xf7c78793	0xa783d11c	0xe3918081
+0x80000950 <__sinit+20>:	0x8082bf4d	0xd4227179	0xce4ed04a	0xca56cc52
+0x80000960 <_fwalk_sglue+12>:	0xd226d606	0x8aae8a2a	0x49054401	0x460c59fd
+0x80000970 <_fwalk_sglue+28>:	0x14fd4244	0x0004de63	0xfa754210	0x852250b2
+0x80000980 <_fwalk_sglue+44>:	0x54925422	0x49f25902	0x4ad24a62	0x80826145
+0x80000990 <_fwalk_sglue+60>:	0x00c5d783	0x00f97d63	0x00e59783	0x01378963
+0x800009a0 <_fwalk_sglue+76>:	0xc6328552	0x9a82c42e	0x45a24632	0x85938c49
+0x800009b0 <_fwalk_sglue+92>:	0xb7c10685	0xc4221141	0x9583842e	0xc60600e5
+0x800009c0 <__sread+12>:	0x496324bd	0x487c0005	0xc87c97aa	0x442240b2
+0x800009d0 <__sread+28>:	0x80820141	0x00c45783	0x177d777d	0x16238ff9
+0x800009e0 <__sread+44>:	0xb7ed00f4	0x00c5d783	0xcc221101	0xc84aca26
+0x800009f0 <__swrite+12>:	0xce06c64e	0x1007f793	0x842e84aa	0x89b68932
+0x80000a00 <__swrite+28>:	0x9583c791	0x468900e5	0x2ae54601	0x00c45783
+0x80000a10 <__swrite+44>:	0x177d777d	0x15838ff9	0x162300e4	0x446200f4
+0x80000a20 <__swrite+60>:	0x86ce40f2	0x49b2864a	0x85264942	0x610544d2
+0x80000a30 <__swrite+76>:	0x1141a42d	0x842ec422	0x00e59583	0x22d1c606
+0x80000a40 <__sseek+14>:	0x1783577d	0x1d6300c4	0x071300e5	0x07138005
+0x80000a50 <__sseek+30>:	0x8ff98007	0x00f41623	0x442240b2	0x80820141
+0x80000a60 <__sseek+46>:	0x8fd96705	0x00f41623	0xb7fdc868	0x00e59583
+0x80000a70 <__sclose+4>:	0x1101a2ad	0xca26cc22	0xce06c64e	0x84aac84a
+0x80000a80 <__swbuf_r+14>:	0x843289ae	0x511cc501	0x3d4de391	0xc41c4c1c
+0x80000a90 <__swbuf_r+30>:	0x00c45783	0xc3998ba1	0xef91481c	0x852685a2
+0x80000aa0 <__swbuf_r+46>:	0xc9112085	0x40f2597d	0x44d24462	0x854a49b2
+0x80000ab0 <__swbuf_r+62>:	0x61054942	0x481c8082	0x8d1d4008	0x4663485c
+0x80000ac0 <__swbuf_r+78>:	0x85a200f5	0x29f58526	0x441cfd71	0xf9130505
+0x80000ad0 <__swbuf_r+94>:	0x17fd0ff9	0x401cc41c	0x00178713	0x8023c018
+0x80000ae0 <__swbuf_r+110>:	0x485c0137	0x00a78963	0x00c45783	0xdfc58b85
+0x80000af0 <__swbuf_r+126>:	0xff690793	0x85a2fbcd	0x21e18526	0xb75dd54d
+0x80000b00 <__swsetup_r>:	0xc2261141	0xf51784aa	0x25030007	0xc4225525
+0x80000b10 <__swsetup_r+16>:	0x842ec606	0x511cc501	0x350de391	0x00c41783
+0x80000b20 <__swsetup_r+32>:	0x0087f713	0xf713e729	0xeb090107	0xc0984725
+0x80000b30 <__swsetup_r+48>:	0x0407e793	0x00f41623	0xa0bd557d	0x0047f713
+0x80000b40 <__swsetup_r+64>:	0x584cc31d	0x0793c989	0x84630444	0x852600f5
+0x80000b50 <__swsetup_r+80>:	0x2a232299	0x57830204	0x481800c4	0x00042223
+0x80000b60 <__swsetup_r+96>:	0xfdb7f793	0xe793c018	0x16230087	0x481c00f4
+0x80000b70 <__swsetup_r+112>:	0x445ceb99	0x20000713	0x2807f793	0x00e78563
+0x80000b80 <__swsetup_r+128>:	0x852685a2	0x178321f1	0xf71300c4	0xc3150017
+0x80000b90 <__swsetup_r+144>:	0x24234858	0x07330004	0xcc1840e0	0x45014818
+0x80000ba0 <__swsetup_r+160>:	0xf713e701	0xf7490807	0x442240b2	0x01414492
+0x80000bb0 <__swsetup_r+176>:	0xf7138082	0x46810027	0x4854e311	0xbff9c414
+0x80000bc0 <memchr>:	0x0ff5f593	0x1463962a	0x450100c5	0x47838082
+0x80000bd0 <memchr+16>:	0x8de30005	0x0505feb7	0x1141b7fd	0x842ac422
+0x80000be0 <_close_r+6>:	0xa623852e	0xc6068001	0xc94ff0ef	0x166357fd
+0x80000bf0 <_close_r+22>:	0xa78300f5	0xc39180c1	0x40b2c01c	0x01414422
+0x80000c00 <_close_r+38>:	0x11418082	0x842ac422	0x85b2852e	0xa6238636
+0x80000c10 <_lseek_r+14>:	0xc6068001	0xc8aff0ef	0x166357fd	0xa78300f5
+0x80000c20 <_lseek_r+30>:	0xc39180c1	0x40b2c01c	0x01414422	0x11418082
+❌️ Quit
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+$1 = (void (*)()) 0x1000
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+_text () at src/startup.S:70
+70		j 1b
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [halted ]) _text () at src/startup.S:70
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+❌️ No function contains specified address.
+1	#include <stdlib.h>
+2	#include <stdio.h>
+3	#include "fact.h"
+4	int main(int argc, char **argv)
+5	{
+6	    for (int i=0; i<argc; i++){
+7	        printf("%d %s \n",i, argv[i]);
+8	    }
+9	    uint64_t n=6;
+10	    uint64_t N = factorial(n);
+❌️ Undefined convenience variable or function "$pc" not defined.
+❌️ No function contains specified address.
+❌️ No function contains specified address.
+❌️ No function contains specified address.
+❌️ No function contains specified address.
+Dump of assembler code for function _text:
+   0x80000000 <+0>:	auipc	gp,0x81
+   0x80000004 <+4>:	addi	gp,gp,-1896 # 0x80080898 <xISRStackTop+1992>
+   0x80000008 <+8>:	auipc	sp,0x180
+   0x8000000c <+12>:	addi	sp,sp,-8 # 0x80180000
+   0x80000010 <+16>:	auipc	t0,0x80
+   0x80000014 <+20>:	addi	t0,t0,144 # 0x800800a0 <g_critical_nesting_cnt>
+   0x80000018 <+24>:	auipc	t1,0x81
+   0x8000001c <+28>:	addi	t1,t1,496 # 0x80081208
+   0x80000020 <+32>:	bgeu	t0,t1,0x8000002c <_text+44>
+   0x80000024 <+36>:	sw	zero,0(t0)
+   0x80000028 <+40>:	addi	t0,t0,4
+   0x8000002a <+42>:	j	0x80000020 <_text+32>
+   0x8000002c <+44>:	auipc	t0,0x2
+   0x80000030 <+48>:	addi	t0,t0,-220 # 0x80001f50
+   0x80000034 <+52>:	auipc	t1,0x80
+   0x80000038 <+56>:	addi	t1,t1,-52 # 0x80080000 <mcause_messages>
+   0x8000003c <+60>:	auipc	t2,0x80
+   0x80000040 <+64>:	addi	t2,t2,100 # 0x800800a0 <g_critical_nesting_cnt>
+   0x80000044 <+68>:	bgeu	t1,t2,0x80000056 <_text+86>
+   0x80000048 <+72>:	lw	t3,0(t0)
+   0x8000004c <+76>:	sw	t3,0(t1)
+   0x80000050 <+80>:	addi	t0,t0,4
+   0x80000052 <+82>:	addi	t1,t1,4
+   0x80000054 <+84>:	j	0x80000044 <_text+68>
+   0x80000056 <+86>:	lui	t0,0x2
+   0x80000058 <+88>:	csrs	mstatus,t0
+   0x8000005c <+92>:	fscsr	zero
+   0x80000060 <+96>:	jal	0x8000061c <pmp_setup_guard>
+   0x80000064 <+100>:	jal	0x80000644 <pmp_block_null>
+   0x80000068 <+104>:	li	a0,0
+   0x8000006a <+106>:	li	a1,0
+   0x8000006c <+108>:	li	a2,0
+   0x8000006e <+110>:	jal	0x80000100 <main>
+   0x80000072 <+114>:	wfi
+   0x80000076 <+118>:	j	0x80000072 <_text+114>
+   0x80000078 <+120>:	unimp
+   0x8000007a <+122>:	unimp
+   0x8000007c <+124>:	unimp
+❌️ Quit
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+_text () at src/startup.S:70
+70		j 1b
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [halted ]) _text () at src/startup.S:70
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+$1 = 0x1000
+0x1000:	0x00000297
+0x1000:	0x00000297	0x02828613	0xf1402573	0x0202a583
+0x1010:	0x0182a283	0x00028067	0x80000000	0x00000000
+0x1020:	0x87e00000	0x00000000
+0x1000:	0x00000297	0x02828613	0xf1402573	0x0202a583
+0x1010:	0x0182a283	0x00028067	0x80000000	0x00000000
+0x1020:	0x87e00000	0x00000000	0x4942534f	0x00000002
+0x1030:	0x00000000	0x00000001	0x00000000	0x00000000
+0x1040:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1000:	0x00000297	0x02828613	0xf1402573	0x0202a583
+0x1010:	0x0182a283	0x00028067	0x80000000	0x00000000
+0x1020:	0x87e00000	0x00000000	0x4942534f	0x00000002
+0x1030:	0x00000000	0x00000001	0x00000000	0x00000000
+0x1040:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1050:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1060:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1070:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1080:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1090:	0x00000000	0x00000000	0x00000000	0x00000000
+0x10a0:	0x00000000	0x00000000	0x00000000	0x00000000
+0x10b0:	0x00000000	0x00000000	0x00000000	0x00000000
+0x10c0:	0x00000000	0x00000000	0x00000000	0x00000000
+0x10d0:	0x00000000	0x00000000	0x00000000	0x00000000
+0x10e0:	0x00000000	0x00000000	0x00000000	0x00000000
+0x10f0:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1100:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1110:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1120:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1130:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1140:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1150:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1160:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1170:	0x00000000	0x00000000	0x00000000	0x00000000
+0x1180:	0x00000000	0x00000000	0x00000000	0x00000000
+0xffc:	❌️ Cannot access memory at address 0xffc
+0xffc:	❌️ Cannot access memory at address 0xffc
+❌️ Quit
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+No breakpoints, watchpoints, tracepoints, or catchpoints.
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+Breakpoint 1 at 0x80000100: file src/main.c, line 6.
+Breakpoint 2 at 0x8000055e: file src/syscalls.c, line 12.
+Breakpoint 3 at 0x80000580: file src/syscalls.c, line 27.
+Breakpoint 4 at 0x80000594: file src/syscalls.c, line 34.
+Breakpoint 5 at 0x8000059e: file src/syscalls.c, line 43.
+Breakpoint 6 at 0x800005a2: file src/syscalls.c, line 51.
+Breakpoint 7 at 0x800005b6: file src/syscalls.c, line 61.
+Breakpoint 8 at 0x800005ca: file src/syscalls.c, line 70.
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x80000100 in main at src/main.c:6
+2       breakpoint     keep y   0x8000055e in _sbrk at src/syscalls.c:12
+3       breakpoint     keep y   0x80000580 in _close at src/syscalls.c:27
+4       breakpoint     keep y   0x80000594 in _fstat at src/syscalls.c:34
+5       breakpoint     keep y   0x8000059e in _isatty at src/syscalls.c:43
+6       breakpoint     keep y   0x800005a2 in _lseek at src/syscalls.c:51
+7       breakpoint     keep y   0x800005b6 in _read at src/syscalls.c:61
+8       breakpoint     keep y   0x800005ca in _write at src/syscalls.c:70
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x80180000	0x80180000
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 1, main (argc=0x0, argv=0x0) at src/main.c:6
+6	    for (int i=0; i<argc; i++){
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+Breakpoint 1 at 0x80000100: file src/main.c, line 6.
+Breakpoint 2 at 0x8000055e: file src/syscalls.c, line 12.
+Breakpoint 3 at 0x80000580: file src/syscalls.c, line 27.
+Breakpoint 4 at 0x80000594: file src/syscalls.c, line 34.
+Breakpoint 5 at 0x8000192c
+Breakpoint 6 at 0x8000059e: file src/syscalls.c, line 43.
+Breakpoint 7 at 0x800005a2: file src/syscalls.c, line 51.
+Breakpoint 8 at 0x800005b6: file src/syscalls.c, line 61.
+Breakpoint 9 at 0x800005ca: file src/syscalls.c, line 70.
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x80000100 in main at src/main.c:6
+2       breakpoint     keep y   0x8000055e in _sbrk at src/syscalls.c:12
+3       breakpoint     keep y   0x80000580 in _close at src/syscalls.c:27
+4       breakpoint     keep y   0x80000594 in _fstat at src/syscalls.c:34
+5       breakpoint     keep y   0x8000192c <_fstat_r+10>
+6       breakpoint     keep y   0x8000059e in _isatty at src/syscalls.c:43
+7       breakpoint     keep y   0x800005a2 in _lseek at src/syscalls.c:51
+8       breakpoint     keep y   0x800005b6 in _read at src/syscalls.c:61
+9       breakpoint     keep y   0x800005ca in _write at src/syscalls.c:70
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x80180000	0x80180000
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 1, main (argc=0x0, argv=0x0) at src/main.c:6
+6	    for (int i=0; i<argc; i++){
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x8017fe20	0x8017fe20
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 5, 0x8000192c in _fstat_r ()
+#0  0x8000192c in _fstat_r ()
+#1  0x80001886 in __swhatbuf_r ()
+Backtrace stopped: frame did not save the PC
+Stack level 0, frame at 0x8017fe30:
+ pc = 0x8000192c in _fstat_r; saved pc = 0x80001886
+ called by frame at 0x8017feb0
+ Arglist at 0x8017fe30, args: 
+ Locals at 0x8017fe30, Previous frame's sp is 0x8017fe30
+ Saved registers:
+  fp at 0x8017fe28
+#0  0x8000192c in _fstat_r ()
+#1  0x80001886 in __swhatbuf_r ()
+Backtrace stopped: frame did not save the PC
+❌️ No symbol "full" in current context.
+#0  0x8000192c in _fstat_r ()
+No symbol table info available.
+#1  0x80001886 in __swhatbuf_r ()
+No symbol table info available.
+Backtrace stopped: frame did not save the PC
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x8017fe20	0x8017fe20
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 4, _fstat (fd=0x1, st=0x8017fe48) at src/syscalls.c:34
+34	    if (st) {
+$1 = (struct stat *) 0x8017fe48
+$2 = {
+  st_dev = 0x0,
+  st_ino = 0x0,
+  st_mode = 0x0,
+  st_nlink = 0x0,
+  st_uid = 0x0,
+  st_gid = 0x0,
+  st_rdev = 0x0,
+  st_size = 0x0,
+  st_atim = {
+    tv_sec = 0x0,
+    tv_nsec = 0x0
+  },
+  st_mtim = {
+    tv_sec = 0x0,
+    tv_nsec = 0x0
+  },
+  st_ctim = {
+    tv_sec = 0x0,
+    tv_nsec = 0x0
+  },
+  st_blksize = 0x0,
+  st_blocks = 0x0,
+  st_spare4 = {0x0, 0x0}
+}
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+Breakpoint 1 at 0x80000100: file src/main.c, line 6.
+Breakpoint 2 at 0x8000056a: file src/syscalls.c, line 12.
+Breakpoint 3 at 0x8000058c: file src/syscalls.c, line 27.
+Breakpoint 4 at 0x800005a0: file src/syscalls.c, line 34.
+Breakpoint 5 at 0x8000199a
+Breakpoint 6 at 0x800005aa: file src/syscalls.c, line 43.
+Breakpoint 7 at 0x800005ae: file src/syscalls.c, line 51.
+Breakpoint 8 at 0x800005c2: file src/syscalls.c, line 61.
+Breakpoint 9 at 0x800005d6: file src/syscalls.c, line 69.
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x80000100 in main at src/main.c:6
+2       breakpoint     keep y   0x8000056a in _sbrk at src/syscalls.c:12
+3       breakpoint     keep y   0x8000058c in _close at src/syscalls.c:27
+4       breakpoint     keep y   0x800005a0 in _fstat at src/syscalls.c:34
+5       breakpoint     keep y   0x8000199a <_fstat_r+10>
+6       breakpoint     keep y   0x800005aa in _isatty at src/syscalls.c:43
+7       breakpoint     keep y   0x800005ae in _lseek at src/syscalls.c:51
+8       breakpoint     keep y   0x800005c2 in _read at src/syscalls.c:61
+9       breakpoint     keep y   0x800005d6 in _write at src/syscalls.c:69
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x80180000	0x80180000
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 1, main (argc=0x0, argv=0x0) at src/main.c:6
+6	    for (int i=0; i<argc; i++){
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x8017fe20	0x8017fe20
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 5, 0x8000199a in _fstat_r ()
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x8017fe20	0x8017fe20
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 4, _fstat (fd=0x1, st=0x8017fe48) at src/syscalls.c:34
+34	    if (st) {
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x8017fe70	0x8017fe70
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 2, _sbrk (incr=0x0) at src/syscalls.c:12
+12	    if (heap_end == 0) {
+#0  _sbrk (incr=0x0) at src/syscalls.c:12
+#1  0x800019f4 in _sbrk_r ()
+Backtrace stopped: frame did not save the PC
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x8017fe70	0x8017fe70
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 2, _sbrk (incr=0x408) at src/syscalls.c:12
+12	    if (heap_end == 0) {
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x8017fea0	0x8017fea0
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 6, _isatty (fd=0x1) at src/syscalls.c:43
+43	    return 1;   // say "yes" so stdio works
+#0  _isatty (fd=0x1) at src/syscalls.c:43
+#1  0x800019cc in _isatty_r ()
+Backtrace stopped: frame did not save the PC
+#0  _isatty (fd=0x1) at src/syscalls.c:43
+No locals.
+#1  0x800019cc in _isatty_r ()
+No symbol table info available.
+Backtrace stopped: frame did not save the PC
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x8017fe80	0x8017fe80
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 9, _write (fd=0x1, buf=0x80081210, len=0x17) at src/syscalls.c:69
+69	    if (fd != 1 && fd != 2) { 
+$1 = (const void *) 0x80081210
+❌️ Attempt to dereference a generic pointer.
+$2 = 0x66
+Continuing.
+
+Program received signal SIGINT, Interrupt.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x80180000	0x80180000
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+_text () at src/startup.S:70
+70		j 1b
+#0  _text () at src/startup.S:70
+Backtrace stopped: previous frame identical to this frame (corrupt stack?)
+Detaching from program: /mnt/wsl/disk2/MyProjectTemplate/build/riscv32/program_riscv32_v1.0.0, process 1
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+Breakpoint 1 at 0x80000100: file src/main.c, line 6.
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x80000100 in main at src/main.c:6
+Continuing.
+mcause         0x0	0x0
+mepc           0x0	0x0
+mtval          0x0	0x0
+mtvec          0x0	0x0
+mstatus        0x80006000	SD:1 VM:00 MXR:0 PUM:0 MPRV:0 XS:0 FS:3 MPP:0 HPP:0 SPP:0 MPIE:0 HPIE:0 SPIE:0 UPIE:0 MIE:0 HIE:0 SIE:0 UIE:0
+mie            0x0	0x0
+sp             0x80180000	0x80180000
+gp             0x80080898	0x80080898 <xISRStackTop+1992>
+tp             0x0	0x0
+
+Breakpoint 1, main (argc=0x0, argv=0x0) at src/main.c:6
+6	    for (int i=0; i<argc; i++){
+❌️ Remote connection closed
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+❌️ gdbinit:43: Error in sourced command file:
+/mnt/wsl/disk2/MyProjectTemplate/build/riscv32//program_riscv32_v1.0.0: No such file or directory.
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+0x00001000 in ?? ()
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [running]) 0x00001000 in ?? ()
+Breakpoint 1 at 0x80000110: file src/main.c, line 7.
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x80000110 in main at src/main.c:7
+n = 0x6
+N = 0x2d0
+10	    uint64_t n=6;
+11	    uint64_t N = factorial(n);
+12	    printf("factorial of %u is %u \n ", n, N);
+13	
+14	    //exit_handler();
+15	}
+16	
+17	void exit_handler(void) 
+18	{
+19	    printf("ERROR: main() has returned — system halted.\n");
+Dump of assembler code for function main:
+   0x80000100 <+0>:	addi	sp,sp,-64
+   0x80000102 <+2>:	sw	ra,60(sp)
+   0x80000104 <+4>:	sw	s0,56(sp)
+   0x80000106 <+6>:	addi	s0,sp,64
+   0x80000108 <+8>:	sw	a0,-52(s0)
+   0x8000010c <+12>:	sw	a1,-56(s0)
+   0x80000110 <+16>:	sw	zero,-20(s0)
+   0x80000114 <+20>:	j	0x80000140 <main+64>
+   0x80000116 <+22>:	lw	a5,-20(s0)
+   0x8000011a <+26>:	slli	a5,a5,0x2
+   0x8000011c <+28>:	lw	a4,-56(s0)
+   0x80000120 <+32>:	add	a5,a5,a4
+   0x80000122 <+34>:	lw	a5,0(a5)
+   0x80000124 <+36>:	mv	a2,a5
+   0x80000126 <+38>:	lw	a1,-20(s0)
+   0x8000012a <+42>:	lui	a5,0x80002
+   0x8000012e <+46>:	addi	a0,a5,412 # 0x8000219c
+   0x80000132 <+50>:	jal	0x80001204 <printf>
+   0x80000136 <+54>:	lw	a5,-20(s0)
+   0x8000013a <+58>:	addi	a5,a5,1
+   0x8000013c <+60>:	sw	a5,-20(s0)
+   0x80000140 <+64>:	lw	a4,-20(s0)
+   0x80000144 <+68>:	lw	a5,-52(s0)
+   0x80000148 <+72>:	blt	a4,a5,0x80000116 <main+22>
+   0x8000014c <+76>:	li	a4,6
+   0x8000014e <+78>:	li	a5,0
+   0x80000150 <+80>:	sw	a4,-32(s0)
+   0x80000154 <+84>:	sw	a5,-28(s0)
+   0x80000158 <+88>:	lw	a0,-32(s0)
+   0x8000015c <+92>:	lw	a1,-28(s0)
+   0x80000160 <+96>:	jal	0x80000c1c <factorial>
+   0x80000164 <+100>:	sw	a0,-40(s0)
+   0x80000168 <+104>:	sw	a1,-36(s0)
+   0x8000016c <+108>:	lw	a4,-40(s0)
+   0x80000170 <+112>:	lw	a5,-36(s0)
+   0x80000174 <+116>:	lw	a2,-32(s0)
+   0x80000178 <+120>:	lw	a3,-28(s0)
+   0x8000017c <+124>:	lui	a1,0x80002
+   0x80000180 <+128>:	addi	a0,a1,420 # 0x800021a4
+   0x80000184 <+132>:	jal	0x80001204 <printf>
+   0x80000188 <+136>:	li	a5,0
+=> 0x8000018a <+138>:	mv	a0,a5
+   0x8000018c <+140>:	lw	ra,60(sp)
+   0x8000018e <+142>:	lw	s0,56(sp)
+   0x80000190 <+144>:	addi	sp,sp,64
+   0x80000192 <+146>:	ret
+End of assembler dump.
+Detaching from program: /mnt/wsl/ramdisk5/build/riscv32/program_riscv32_debug_v1.0.0, process 1
+Ending remote debugging.
+[Inferior 1 (process 1) detached]
+⚠️ warning: Currently logging to gdb.txt.  Turn the logging off and on to make the new setting effective.
+_text () at src/startup.S:70
+70		j 1b
+Warning: 'flushregs', an alias for the command 'maintenance flush register-cache', is deprecated.
+Use 'maintenance flush register-cache'.
+
+  Id   Target Id                    Frame 
+* 1    Thread 1.1 (CPU#0 [halted ]) _text () at src/startup.S:70
+Breakpoint 1 at 0x80000110: file src/main.c, line 7.
+Num     Type           Disp Enb Address    What
+1       breakpoint     keep y   0x80000110 in main at src/main.c:7
+No locals.
+❌️ The "remote" target does not support "run".  Try "help target" or "continue".
+⚠️ warning: Error detected on fd 0
+error detected on stdin
+❌️ Remote connection closed

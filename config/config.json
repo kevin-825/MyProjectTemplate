@@ -1,0 +1,171 @@
+{
+  "build_dir": "/mnt/wsl/ramdisk5/build",
+  "build_name_prefix": "program",
+  "default_target": "riscv32",
+  "build_profile": "debug",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "build_number": 0,
+    "increment_build_number": false
+  },
+  "profiles": {
+    "debug": {
+      "optimization": "O0",
+      "debug": true,
+      "lto": false,
+      "save_temps": true,
+      "verbose": true,
+      "parallel_jobs": "auto",
+      "sanitize": "none",
+      "coverage": false
+    },
+    "release": {
+      "optimization": "O2",
+      "debug": false,
+      "lto": true,
+      "save_temps": false,
+      "verbose": false,
+      "parallel_jobs": "auto",
+      "sanitize": "none",
+      "coverage": false
+    },
+    "test": {
+      "optimization": "O0",
+      "debug": true,
+      "lto": false,
+      "save_temps": true,
+      "verbose": true,
+      "parallel_jobs": "1",
+      "sanitize": "address",
+      "coverage": true
+    }
+  },
+
+  "features": {
+    "debug": false,
+    "optimization": "O2",
+    "parallel_jobs": "auto",
+    "sanitize": "none",
+    "lto": false,
+    "coverage": false
+  },
+
+  "architectures": {
+    "arm64": {
+      "toolchain": "aarch64-none-elf-",
+      "cflags": [
+        "-mcpu=cortex-a72",
+        "-march=armv8-a",
+        "-Wall",
+        "-Wextra",
+        "-MMD",
+        "-MP",
+        "-ffunction-sections",
+        "-fdata-sections"
+      ],
+      "ldflags": [
+        "-Wl,--gc-sections",
+        "-Wl,--print-memory-usage"
+      ],
+      "env": {
+        "ENV_VAR0": ""
+      }
+    },
+
+    "arm32": {
+      "toolchain": "arm-none-eabi-",
+      "cflags": [
+        "-mcpu=cortex-m4",
+        "-mthumb",
+        "-Wall",
+        "-Wextra",
+        "-MMD",
+        "-MP",
+        "-ffunction-sections",
+        "-fdata-sections"
+      ],
+      "ldflags": [
+        "-Wl,--gc-sections",
+        "-Wl,--print-memory-usage"
+      ],
+      "env": {
+        "ENV_VAR0": ""
+      }
+    },
+
+    "riscv64": {
+      "toolchain": "riscv64-unknown-elf-",
+      "cflags": [
+        "-march=rv64imafdc",
+        "-mabi=lp64d",
+        "-Wall",
+        "-Wextra",
+        "-MMD",
+        "-MP",
+        "-ffunction-sections",
+        "-fdata-sections"
+      ],
+      "ldflags": [
+        "-Wl,--gc-sections",
+        "-Wl,--print-memory-usage"
+      ],
+      "env": {
+        "ENV_VAR0": ""
+      }
+    },
+
+    "riscv32": {
+    "toolchain": "/mnt/wsl/vhd0/opt/riscv/riscv_u24_selfbuildt_gnu/newlib/bin/riscv64-unknown-elf-",
+    "cflags": [
+      "-march=rv32imafc",
+      "-mabi=ilp32f",
+      "-Wall",
+      "-Wextra",
+      "-std=c11",
+      "-ffreestanding",
+      "-ffunction-sections",
+      "-fdata-sections",
+      "-fno-exceptions",
+      "-fno-rtti",
+      "--specs=nosys.specs",
+      "-MMD",
+      "-MP"
+    ],
+    "ldflags": [
+      "-march=rv32imafc",
+      "-mabi=ilp32f",
+      "-nostartfiles",
+      "--specs=nosys.specs",
+      "-Wl,--gc-sections",
+      "-Wl,--start-group",
+      "-lc",
+      "-lgcc",
+      "-Wl,--end-group"
+    ],
+    "linker_script": "./config/linker_riscv32.ld",
+    "env": {
+      "ENV_VAR0": ""
+    }
+  },
+
+
+    "local": {
+      "toolchain": "",
+      "cflags": [
+        "-Wall",
+        "-Wextra",
+        "-MMD",
+        "-MP",
+        "-ffunction-sections",
+        "-fdata-sections"
+      ],
+      "ldflags": [
+        "-Wl,--gc-sections"
+      ],
+      "env": {
+        "ENV_VAR0": ""
+      }
+    }
+  }
+}
